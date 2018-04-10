@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1523318999 source:d:\mios\charmander\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
