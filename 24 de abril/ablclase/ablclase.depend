@@ -1,0 +1,17 @@
+# depslib dependency file v1.0
+1524611697 source:d:\miomio\ablclase\funciones.c
+	<stdio.h>
+	<stdlib.h>
+	"funciones.h"
+	<conio.h>
+	<string.h>
+
+1524610698 d:\miomio\ablclase\funciones.h
+
+1524611738 source:d:\miomio\ablclase\main.c
+	<stdio.h>
+	<stdlib.h>
+	"funciones.h"
+	<string.h>
+	<conio.h>
+
