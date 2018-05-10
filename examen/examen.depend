@@ -1,0 +1,63 @@
+# depslib dependency file v1.0
+1525741064 source:d:\josephflores1f\examen\funciones.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<string.h>
+	<ctype.h>
+	"funciones.h"
+
+1525740923 source:d:\josephflores1f\examen\main.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<string.h>
+	<ctype.h>
+	"funciones.h"
+
+1525731811 source:c:\users\alumno\desktop\para el examen\clase11 abm2.0\utn.c
+
+1525741569 d:\josephflores1f\examen\funciones.h
+
+1525737334 source:d:\josephflores1f\examen\utn.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<string.h>
+	<ctype.h>
+	"funciones.h"
+
+1525741827 source:d:\josephflores1f\examen\proveedores.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<string.h>
+	<ctype.h>
+	"funciones.h"
+
+1525741066 source:e:\examen\funciones.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<string.h>
+	<ctype.h>
+	"funciones.h"
+
+1525741570 e:\examen\funciones.h
+
+1525740924 source:e:\examen\main.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<string.h>
+	<ctype.h>
+	"funciones.h"
+
+1525737336 source:e:\examen\utn.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<string.h>
+	<ctype.h>
+	"funciones.h"
+
